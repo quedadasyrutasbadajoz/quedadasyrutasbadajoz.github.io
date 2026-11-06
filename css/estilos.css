@@ -198,3 +198,8 @@ body.anuncios-activos .anuncio{display:block;min-height:100px;margin:32px auto;m
 .reco h4{font-size:.85rem;text-transform:uppercase;letter-spacing:.1em;color:var(--suave);margin:18px 0 6px}
 .reco dl{margin:14px 0 0}.reco dt{font-size:.78rem;text-transform:uppercase;letter-spacing:.1em;color:var(--suave)}.reco dd{margin:0 0 10px;font-weight:600}
 .reco .fuente{padding-left:18px;margin:0}.reco .hecha{margin:8px 0;font-weight:600}
+.fotos-ruta{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin:4px 0 14px}
+.fotos-ruta figure{margin:0}.fotos-ruta a[data-visor]{display:block;aspect-ratio:4/3;overflow:hidden;border-radius:8px;background:#000}
+.fotos-ruta img{width:100%;height:100%;object-fit:cover;transition:transform .4s}.fotos-ruta a[data-visor]:hover img{transform:scale(1.05)}
+.fotos-ruta figcaption{font-size:.72rem;line-height:1.35;margin-top:4px;color:var(--texto)}.fotos-ruta figcaption a{color:inherit}
+.curiosidades{padding-left:18px;margin:0}.curiosidades li{margin:0 0 8px}
