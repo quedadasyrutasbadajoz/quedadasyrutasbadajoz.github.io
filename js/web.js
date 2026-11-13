@@ -56,7 +56,8 @@
     });
   }
 
-  // Consentimiento de cookies. Nada de publicidad ni analítica se carga hasta que el usuario acepta.
+  // Consentimiento de cookies. 12-nov (7e1442): la PUBLICIDAD la gestiona la CMP de Google (adsbygoogle.js va siempre en la página);
+  // este aviso propio solo pregunta por la analítica, y «Configurar cookies» abre también el aviso de Google.
   // Los scripts de terceros van en la página como <script type="text/plain" data-consentimiento="publicidad|analitica" data-src="...">
   // y solo se activan aquí, tras aceptar. Mientras CONFIG.anuncios sea false, no se carga ninguno aunque se acepte.
   var CLAVE = "qyrb_consentimiento_v1";
@@ -64,7 +65,6 @@
   var caja = document.getElementById("cookies");
   var lee = function () { try { return JSON.parse(localStorage.getItem(CLAVE)); } catch (e) { return null; } };
   var activa = function (c) {
-    if (CONFIG.anuncios && c.publicidad) document.body.classList.add("anuncios-activos");
     document.querySelectorAll('script[type="text/plain"][data-consentimiento]').forEach(function (s) {
       var tipo = s.dataset.consentimiento;
       if (!c[tipo] || !CONFIG[tipo === "publicidad" ? "anuncios" : "analitica"]) return;
@@ -80,16 +80,19 @@
   };
   if (caja) {
     var previo = lee();
-    if (previo) activa(previo); else if (CONFIG.anuncios || CONFIG.analitica) caja.classList.add("visible");  // sin nada opcional activo no hay nada que preguntar
-    caja.querySelector("[data-accion=aceptar]").addEventListener("click", function () { guarda({ publicidad: true, analitica: true }); });
-    caja.querySelector("[data-accion=rechazar]").addEventListener("click", function () { guarda({ publicidad: false, analitica: false }); });
+    if (previo) activa(previo); else if (CONFIG.analitica) caja.classList.add("visible");  // sin analítica activa no hay nada que preguntar aquí
+    caja.querySelector("[data-accion=aceptar]").addEventListener("click", function () { guarda({ analitica: true }); });
+    caja.querySelector("[data-accion=rechazar]").addEventListener("click", function () { guarda({ analitica: false }); });
     caja.querySelector("[data-accion=ajustes]").addEventListener("click", function () { caja.classList.toggle("con-ajustes"); });
     caja.querySelector("[data-accion=guardar]").addEventListener("click", function () {
-      guarda({ publicidad: caja.querySelector("#ck-pub").checked, analitica: caja.querySelector("#ck-ana").checked });
+      guarda({ analitica: caja.querySelector("#ck-ana").checked });
     });
     document.querySelectorAll("[data-abrir-cookies]").forEach(function (x) {
       x.addEventListener("click", function () {
-        var p = lee() || {}; caja.querySelector("#ck-pub").checked = !!p.publicidad; caja.querySelector("#ck-ana").checked = !!p.analitica;
+        if (CONFIG.anuncios) { window.googlefc = window.googlefc || {}; window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+          window.googlefc.callbackQueue.push(function () { window.googlefc.showRevocationMessage(); }); }   // aviso de Google (publicidad)
+        if (!CONFIG.analitica) return;
+        var p = lee() || {}; caja.querySelector("#ck-ana").checked = !!p.analitica;
         caja.classList.add("visible", "con-ajustes");
       });
     });
