@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Quedadas y Rutas Badajoz//Web//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:papanoelada-2026@www.quedadasyrutasbadajoz.es
+DTSTAMP:20261112T162430Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Papanoelada 2026 motera · Quedadas y Rutas Badajoz
+LOCATION:Badajoz
+DESCRIPTION:Ruta motera por pueblos de la provincia de Badajoz. Confirmados
+  por ahora (cartel de Z Club Extremadura\, 7-nov): Alvarado\, Valdelacalza
+ da\, Puebla de la Calzada\, Montijo\, Torremayor\, Esparragalejo\, Mérida
+ \, Torremejía\, Almendralejo\, Santa Marta de los Barros\, Aceuchal y La 
+ Albuera. Pendientes de confirmar: Talavera la Real\, La Garrovilla y Calam
+ onte. Disfraz obligatorio de Papá Noel o Mamá Noel. Si llueve\, se aplaz
+ a al domingo 20 de diciembre de 2026 con la misma organización. Hora y pu
+ nto de salida: próximamente.\nHora\, punto de salida y cambios por lluvia
+ : https://www.quedadasyrutasbadajoz.es/eventos/papanoelada/
+URL:https://www.quedadasyrutasbadajoz.es/eventos/papanoelada/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Papanoelada 2026: el domingo. Mira la hora y el punto de salida
+  en la web.
+TRIGGER:-PT36H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
