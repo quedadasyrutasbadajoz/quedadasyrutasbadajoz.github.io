@@ -5,20 +5,24 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:papanoelada-2026@www.quedadasyrutasbadajoz.es
-DTSTAMP:20261112T162430Z
+DTSTAMP:20261119T131015Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Papanoelada 2026 motera · Quedadas y Rutas Badajoz
-LOCATION:Badajoz
-DESCRIPTION:Ruta motera por pueblos de la provincia de Badajoz. Confirmados
-  por ahora (cartel de Z Club Extremadura\, 7-nov): Alvarado\, Valdelacalza
- da\, Puebla de la Calzada\, Montijo\, Torremayor\, Esparragalejo\, Mérida
- \, Torremejía\, Almendralejo\, Santa Marta de los Barros\, Aceuchal y La 
- Albuera. Pendientes de confirmar: Talavera la Real\, La Garrovilla y Calam
- onte. Disfraz obligatorio de Papá Noel o Mamá Noel. Si llueve\, se aplaz
- a al domingo 20 de diciembre de 2026 con la misma organización. Hora y pu
- nto de salida: próximamente.\nHora\, punto de salida y cambios por lluvia
- : https://www.quedadasyrutasbadajoz.es/eventos/papanoelada/
+LOCATION:Mesón Tremeño (C/ Cáñamo\, 1 · Ctra. de La Corte\, Badajoz)
+DESCRIPTION:Hora: Concentración de 8:00 a 9:00 · salida a las 9:15. Salid
+ a: Mesón Tremeño (C/ Cáñamo\, 1 · Ctra. de La Corte\, Badajoz). Unos 
+ 190 km por 17 pueblos: Alvarado\, Talavera la Real\, Valdelacalzada\, Pueb
+ la de la Calzada\, Montijo\, Torremayor\, La Garrovilla\, Esparragalejo\, 
+ Mérida (parada para desayunar y repostar a las 11:00)\, Calamonte\, Torre
+ mejía\, Almendralejo\, Aceuchal\, Santa Marta y La Albuera\; llegada a Ba
+ dajoz hacia las 14:30. A las 16:30\, desfile por las calles de Badajoz des
+ de la explanada del Puente Real. Horario de cada pueblo y mapa: /eventos/p
+ apanoelada/ruta-2026/ Disfraz obligatorio de Papá Noel o Mamá Noel (deco
+ ra tu moto). Organiza Z Club Extremadura\; colabora Quedadas y Rutas Badaj
+ oz. Las horas son orientativas. Si llueve\, se aplaza al domingo 20 de dic
+ iembre de 2026 con la misma organización.\nHora\, punto de salida y cambi
+ os por lluvia: https://www.quedadasyrutasbadajoz.es/eventos/papanoelada/
 URL:https://www.quedadasyrutasbadajoz.es/eventos/papanoelada/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
