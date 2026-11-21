@@ -6,8 +6,9 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:papanoelada-2026@www.quedadasyrutasbadajoz.es
 DTSTAMP:20261119T131015Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T070000Z
+DTEND:20261213T153000Z
+SEQUENCE:1
 SUMMARY:Papanoelada 2026 motera · Quedadas y Rutas Badajoz
 LOCATION:Mesón Tremeño (C/ Cáñamo\, 1 · Ctra. de La Corte\, Badajoz)
 DESCRIPTION:Hora: Concentración de 8:00 a 9:00 · salida a las 9:15. Salid
@@ -17,19 +18,20 @@ DESCRIPTION:Hora: Concentración de 8:00 a 9:00 · salida a las 9:15. Salid
  Mérida (parada para desayunar y repostar a las 11:00)\, Calamonte\, Torre
  mejía\, Almendralejo\, Aceuchal\, Santa Marta y La Albuera\; llegada a Ba
  dajoz hacia las 14:30. A las 16:30\, desfile por las calles de Badajoz des
- de la explanada del Puente Real. Horario de cada pueblo y mapa: /eventos/p
- apanoelada/ruta-2026/ Disfraz obligatorio de Papá Noel o Mamá Noel (deco
- ra tu moto). Organiza Z Club Extremadura\; colabora Quedadas y Rutas Badaj
- oz. Las horas son orientativas. Si llueve\, se aplaza al domingo 20 de dic
- iembre de 2026 con la misma organización.\nHora\, punto de salida y cambi
- os por lluvia: https://www.quedadasyrutasbadajoz.es/eventos/papanoelada/
+ de la explanada del Puente Real. Horario de cada pueblo y mapa: https://ww
+ w.quedadasyrutasbadajoz.es/eventos/papanoelada/ruta-2026/ Disfraz obligato
+ rio de Papá Noel o Mamá Noel (decora tu moto). Organiza Z Club Extremadu
+ ra\; colabora Quedadas y Rutas Badajoz. Las horas son orientativas. Si llu
+ eve\, se aplaza al domingo 20 de diciembre de 2026 con la misma organizaci
+ ón.\nHora\, punto de salida y cambios por lluvia: https://www.quedadasyru
+ tasbadajoz.es/eventos/papanoelada/
 URL:https://www.quedadasyrutasbadajoz.es/eventos/papanoelada/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Papanoelada 2026: el domingo. Mira la hora y el punto de salida
-  en la web.
+DESCRIPTION:Papanoelada 2026: el domingo a las 08:00. Mira en la web si se 
+ aplaza por lluvia.
 TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
