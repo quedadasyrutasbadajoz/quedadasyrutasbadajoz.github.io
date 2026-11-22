@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Sierra Grande: de Alange a Villafranca por Hornachos</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/sierra-grande-hornachos/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.78514" lon="-6.24727"><name>Alange</name></wpt>
+ <wpt lat="38.81770" lon="-6.21757"><name>La Zarza</name></wpt>
+ <wpt lat="38.74715" lon="-6.07799"><name>Oliva de Mérida</name></wpt>
+ <wpt lat="38.69278" lon="-6.13563"><name>Palomas</name></wpt>
+ <wpt lat="38.66425" lon="-6.10259"><name>Puebla de la Reina</name></wpt>
+ <wpt lat="38.56693" lon="-6.04594"><name>Hornachos</name></wpt>
+ <wpt lat="38.57054" lon="-6.19701"><name>Puebla del Prior</name></wpt>
+ <wpt lat="38.55215" lon="-6.23865"><name>Ribera del Fresno</name></wpt>
+ <wpt lat="38.48232" lon="-6.18503"><name>Hinojosa del Valle</name></wpt>
+ <wpt lat="38.56134" lon="-6.33924"><name>Villafranca de los Barros</name></wpt>
+ <rte><name>Sierra Grande: de Alange a Villafranca por Hornachos</name>
+  <rtept lat="38.78514" lon="-6.24727"><name>Alange</name></rtept>
+  <rtept lat="38.81770" lon="-6.21757"><name>La Zarza</name></rtept>
+  <rtept lat="38.74715" lon="-6.07799"><name>Oliva de Mérida</name></rtept>
+  <rtept lat="38.69278" lon="-6.13563"><name>Palomas</name></rtept>
+  <rtept lat="38.66425" lon="-6.10259"><name>Puebla de la Reina</name></rtept>
+  <rtept lat="38.56693" lon="-6.04594"><name>Hornachos</name></rtept>
+  <rtept lat="38.57054" lon="-6.19701"><name>Puebla del Prior</name></rtept>
+  <rtept lat="38.55215" lon="-6.23865"><name>Ribera del Fresno</name></rtept>
+  <rtept lat="38.48232" lon="-6.18503"><name>Hinojosa del Valle</name></rtept>
+  <rtept lat="38.56134" lon="-6.33924"><name>Villafranca de los Barros</name></rtept>
+ </rte>
+</gpx>

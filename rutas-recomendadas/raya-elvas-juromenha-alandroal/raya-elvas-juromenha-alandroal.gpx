@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>La Raya portuguesa: Elvas, Juromenha y Alandroal</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/raya-elvas-juromenha-alandroal/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.88061" lon="-7.16372"><name>Elvas</name></wpt>
+ <wpt lat="38.74005" lon="-7.23931"><name>Juromenha</name></wpt>
+ <wpt lat="38.60240" lon="-7.38443"><name>Alandroal</name></wpt>
+ <wpt lat="38.61889" lon="-7.41177"><name>Terena</name></wpt>
+ <rte><name>La Raya portuguesa: Elvas, Juromenha y Alandroal</name>
+  <rtept lat="38.88061" lon="-7.16372"><name>Elvas</name></rtept>
+  <rtept lat="38.74005" lon="-7.23931"><name>Juromenha</name></rtept>
+  <rtept lat="38.60240" lon="-7.38443"><name>Alandroal</name></rtept>
+  <rtept lat="38.61889" lon="-7.41177"><name>Terena</name></rtept>
+ </rte>
+</gpx>

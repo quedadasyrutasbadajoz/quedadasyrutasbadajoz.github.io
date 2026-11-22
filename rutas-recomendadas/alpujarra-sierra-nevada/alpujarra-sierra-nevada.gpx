@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>La Alpujarra granadina y la cara sur de Sierra Nevada</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/alpujarra-sierra-nevada/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="36.98793" lon="-3.56638"><name>Dúrcal</name></wpt>
+ <wpt lat="36.91811" lon="-3.48016"><name>Lanjarón</name></wpt>
+ <wpt lat="36.86909" lon="-3.40721"><name>Órgiva</name></wpt>
+ <wpt lat="36.96450" lon="-3.38678"><name>Pampaneira</name></wpt>
+ <wpt lat="37.00613" lon="-3.33821"><name>Capileira</name></wpt>
+ <wpt lat="37.00240" lon="-3.26660"><name>Trevélez</name></wpt>
+ <rte><name>La Alpujarra granadina y la cara sur de Sierra Nevada</name>
+  <rtept lat="36.98793" lon="-3.56638"><name>Dúrcal</name></rtept>
+  <rtept lat="36.91811" lon="-3.48016"><name>Lanjarón</name></rtept>
+  <rtept lat="36.86909" lon="-3.40721"><name>Órgiva</name></rtept>
+  <rtept lat="36.96450" lon="-3.38678"><name>Pampaneira</name></rtept>
+  <rtept lat="37.00613" lon="-3.33821"><name>Capileira</name></rtept>
+  <rtept lat="37.00240" lon="-3.26660"><name>Trevélez</name></rtept>
+ </rte>
+</gpx>

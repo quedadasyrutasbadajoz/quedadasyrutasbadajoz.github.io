@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Sierra del suroeste: Salvatierra, Salvaleón, Zahínos y Oliva de la Frontera</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/suroeste-salvatierra-zahinos-oliva/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.50260" lon="-6.68427"><name>Salvatierra de los Barros</name></wpt>
+ <wpt lat="38.50946" lon="-6.78623"><name>Salvaleón</name></wpt>
+ <wpt lat="38.33054" lon="-6.95467"><name>Zahínos</name></wpt>
+ <wpt lat="38.27699" lon="-6.91843"><name>Oliva de la Frontera</name></wpt>
+ <wpt lat="38.37539" lon="-7.16564"><name>Villanueva del Fresno</name></wpt>
+ <rte><name>Sierra del suroeste: Salvatierra, Salvaleón, Zahínos y Oliva de la Frontera</name>
+  <rtept lat="38.50260" lon="-6.68427"><name>Salvatierra de los Barros</name></rtept>
+  <rtept lat="38.50946" lon="-6.78623"><name>Salvaleón</name></rtept>
+  <rtept lat="38.33054" lon="-6.95467"><name>Zahínos</name></rtept>
+  <rtept lat="38.27699" lon="-6.91843"><name>Oliva de la Frontera</name></rtept>
+  <rtept lat="38.37539" lon="-7.16564"><name>Villanueva del Fresno</name></rtept>
+ </rte>
+</gpx>

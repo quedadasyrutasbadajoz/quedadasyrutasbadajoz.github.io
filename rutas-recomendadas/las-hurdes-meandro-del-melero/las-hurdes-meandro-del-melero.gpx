@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Las Hurdes: EX-204 hasta el meandro del Melero</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/las-hurdes-meandro-del-melero/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="40.40451" lon="-6.08511"><name>Riomalo de Abajo</name></wpt>
+ <wpt lat="40.30176" lon="-6.33262"><name>Pinofranqueado</name></wpt>
+ <rte><name>Las Hurdes: EX-204 hasta el meandro del Melero</name>
+  <rtept lat="40.40451" lon="-6.08511"><name>Riomalo de Abajo</name></rtept>
+  <rtept lat="40.30176" lon="-6.33262"><name>Pinofranqueado</name></rtept>
+ </rte>
+</gpx>

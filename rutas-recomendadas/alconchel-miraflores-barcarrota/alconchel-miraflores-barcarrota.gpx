@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Castillo de Miraflores, Barcarrota y Los Santos de Maimona</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/alconchel-miraflores-barcarrota/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.68548" lon="-7.09957"><name>Olivenza</name></wpt>
+ <wpt lat="38.51672" lon="-7.07098"><name>Alconchel</name></wpt>
+ <wpt lat="38.51630" lon="-6.84923"><name>Barcarrota</name></wpt>
+ <wpt lat="38.45567" lon="-6.51808"><name>La Lapa</name></wpt>
+ <wpt lat="38.42535" lon="-6.41936"><name>Zafra</name></wpt>
+ <wpt lat="38.44943" lon="-6.38176"><name>Los Santos de Maimona</name></wpt>
+ <rte><name>Castillo de Miraflores, Barcarrota y Los Santos de Maimona</name>
+  <rtept lat="38.68548" lon="-7.09957"><name>Olivenza</name></rtept>
+  <rtept lat="38.51672" lon="-7.07098"><name>Alconchel</name></rtept>
+  <rtept lat="38.51630" lon="-6.84923"><name>Barcarrota</name></rtept>
+  <rtept lat="38.45567" lon="-6.51808"><name>La Lapa</name></rtept>
+  <rtept lat="38.42535" lon="-6.41936"><name>Zafra</name></rtept>
+  <rtept lat="38.44943" lon="-6.38176"><name>Los Santos de Maimona</name></rtept>
+ </rte>
+</gpx>

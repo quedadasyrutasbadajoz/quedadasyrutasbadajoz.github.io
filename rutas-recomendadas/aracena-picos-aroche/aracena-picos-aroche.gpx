@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Sierra de Aracena y Picos de Aroche</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/aracena-picos-aroche/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="37.94362" lon="-6.95396"><name>Aroche</name></wpt>
+ <wpt lat="38.06232" lon="-6.64662"><name>Cumbres Mayores</name></wpt>
+ <wpt lat="37.90666" lon="-6.22932"><name>Santa Olalla del Cala</name></wpt>
+ <wpt lat="37.89494" lon="-6.56245"><name>Aracena</name></wpt>
+ <wpt lat="37.87461" lon="-6.66506"><name>Alájar</name></wpt>
+ <wpt lat="37.90349" lon="-6.66174"><name>Fuenteheridos</name></wpt>
+ <rte><name>Sierra de Aracena y Picos de Aroche</name>
+  <rtept lat="37.94362" lon="-6.95396"><name>Aroche</name></rtept>
+  <rtept lat="38.06232" lon="-6.64662"><name>Cumbres Mayores</name></rtept>
+  <rtept lat="37.90666" lon="-6.22932"><name>Santa Olalla del Cala</name></rtept>
+  <rtept lat="37.89494" lon="-6.56245"><name>Aracena</name></rtept>
+  <rtept lat="37.87461" lon="-6.66506"><name>Alájar</name></rtept>
+  <rtept lat="37.90349" lon="-6.66174"><name>Fuenteheridos</name></rtept>
+ </rte>
+</gpx>

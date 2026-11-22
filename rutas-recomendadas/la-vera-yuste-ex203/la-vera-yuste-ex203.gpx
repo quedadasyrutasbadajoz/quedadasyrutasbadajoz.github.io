@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>La Vera: EX-203 y Monasterio de Yuste</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/la-vera-yuste-ex203/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="39.89155" lon="-5.54072"><name>Navalmoral de la Mata</name></wpt>
+ <wpt lat="40.10525" lon="-5.72304"><name>Cuacos de Yuste</name></wpt>
+ <wpt lat="40.02992" lon="-6.09017"><name>Plasencia</name></wpt>
+ <rte><name>La Vera: EX-203 y Monasterio de Yuste</name>
+  <rtept lat="39.89155" lon="-5.54072"><name>Navalmoral de la Mata</name></rtept>
+  <rtept lat="40.10525" lon="-5.72304"><name>Cuacos de Yuste</name></rtept>
+  <rtept lat="40.02992" lon="-6.09017"><name>Plasencia</name></rtept>
+ </rte>
+</gpx>

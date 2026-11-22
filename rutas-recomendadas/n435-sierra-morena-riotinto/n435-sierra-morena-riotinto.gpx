@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>N-435 hacia Sierra Morena y las minas de Riotinto</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/n435-sierra-morena-riotinto/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.87819" lon="-6.97011"><name>Badajoz</name></wpt>
+ <wpt lat="38.71723" lon="-6.82308"><name>La Albuera</name></wpt>
+ <wpt lat="38.61355" lon="-6.82244"><name>Almendral</name></wpt>
+ <wpt lat="38.51630" lon="-6.84923"><name>Barcarrota</name></wpt>
+ <wpt lat="38.32020" lon="-6.77134"><name>Jerez de los Caballeros</name></wpt>
+ <wpt lat="38.16640" lon="-6.65257"><name>Fregenal de la Sierra</name></wpt>
+ <wpt lat="38.14266" lon="-6.68957"><name>Higuera la Real</name></wpt>
+ <wpt lat="37.69346" lon="-6.59578"><name>Minas de Riotinto</name></wpt>
+ <rte><name>N-435 hacia Sierra Morena y las minas de Riotinto</name>
+  <rtept lat="38.87819" lon="-6.97011"><name>Badajoz</name></rtept>
+  <rtept lat="38.71723" lon="-6.82308"><name>La Albuera</name></rtept>
+  <rtept lat="38.61355" lon="-6.82244"><name>Almendral</name></rtept>
+  <rtept lat="38.51630" lon="-6.84923"><name>Barcarrota</name></rtept>
+  <rtept lat="38.32020" lon="-6.77134"><name>Jerez de los Caballeros</name></rtept>
+  <rtept lat="38.16640" lon="-6.65257"><name>Fregenal de la Sierra</name></rtept>
+  <rtept lat="38.14266" lon="-6.68957"><name>Higuera la Real</name></rtept>
+  <rtept lat="37.69346" lon="-6.59578"><name>Minas de Riotinto</name></rtept>
+ </rte>
+</gpx>

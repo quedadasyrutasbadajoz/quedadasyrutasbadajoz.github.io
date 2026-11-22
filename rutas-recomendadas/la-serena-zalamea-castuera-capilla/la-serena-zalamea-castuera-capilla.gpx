@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>La Serena: Zalamea, Castuera, Cabeza del Buey y Capilla</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/la-serena-zalamea-castuera-capilla/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.64960" lon="-5.65927"><name>Zalamea de la Serena</name></wpt>
+ <wpt lat="38.72524" lon="-5.54605"><name>Castuera</name></wpt>
+ <wpt lat="38.72116" lon="-5.22116"><name>Cabeza del Buey</name></wpt>
+ <wpt lat="38.83002" lon="-5.14590"><name>Peñalsordo</name></wpt>
+ <wpt lat="38.82029" lon="-5.08407"><name>Capilla</name></wpt>
+ <rte><name>La Serena: Zalamea, Castuera, Cabeza del Buey y Capilla</name>
+  <rtept lat="38.64960" lon="-5.65927"><name>Zalamea de la Serena</name></rtept>
+  <rtept lat="38.72524" lon="-5.54605"><name>Castuera</name></rtept>
+  <rtept lat="38.72116" lon="-5.22116"><name>Cabeza del Buey</name></rtept>
+  <rtept lat="38.83002" lon="-5.14590"><name>Peñalsordo</name></rtept>
+  <rtept lat="38.82029" lon="-5.08407"><name>Capilla</name></rtept>
+ </rte>
+</gpx>

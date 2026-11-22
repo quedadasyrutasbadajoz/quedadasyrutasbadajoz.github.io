@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>La Siberia: Herrera del Duque, Peloche, Puerto Peña y Fuenlabrada de los Montes</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/siberia-herrera-peloche-fuenlabrada/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="39.16761" lon="-5.05047"><name>Herrera del Duque</name></wpt>
+ <wpt lat="39.18847" lon="-5.13559"><name>Peloche</name></wpt>
+ <wpt lat="39.13076" lon="-5.17984"><name>Puerto Peña (embalse)</name></wpt>
+ <wpt lat="39.13287" lon="-4.93510"><name>Fuenlabrada de los Montes</name></wpt>
+ <rte><name>La Siberia: Herrera del Duque, Peloche, Puerto Peña y Fuenlabrada de los Montes</name>
+  <rtept lat="39.16761" lon="-5.05047"><name>Herrera del Duque</name></rtept>
+  <rtept lat="39.18847" lon="-5.13559"><name>Peloche</name></rtept>
+  <rtept lat="39.13076" lon="-5.17984"><name>Puerto Peña (embalse)</name></rtept>
+  <rtept lat="39.13287" lon="-4.93510"><name>Fuenlabrada de los Montes</name></rtept>
+ </rte>
+</gpx>

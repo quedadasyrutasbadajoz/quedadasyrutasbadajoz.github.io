@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Ruta de los Tres Valles (La Rioja)</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/tres-valles-rioja/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="42.40193" lon="-2.71834"><name>Tricio</name></wpt>
+ <wpt lat="42.26125" lon="-2.76488"><name>Anguiano</name></wpt>
+ <wpt lat="42.38746" lon="-2.52992"><name>Entrena</name></wpt>
+ <wpt lat="42.38272" lon="-2.55398"><name>Medrano</name></wpt>
+ <wpt lat="42.11382" lon="-2.67332"><name>Villoslada de Cameros</name></wpt>
+ <wpt lat="42.28654" lon="-2.42487"><name>Soto en Cameros</name></wpt>
+ <wpt lat="42.25740" lon="-2.44386"><name>Terroba</name></wpt>
+ <wpt lat="42.21802" lon="-2.48867"><name>Jalón de Cameros</name></wpt>
+ <rte><name>Ruta de los Tres Valles (La Rioja)</name>
+  <rtept lat="42.40193" lon="-2.71834"><name>Tricio</name></rtept>
+  <rtept lat="42.26125" lon="-2.76488"><name>Anguiano</name></rtept>
+  <rtept lat="42.38746" lon="-2.52992"><name>Entrena</name></rtept>
+  <rtept lat="42.38272" lon="-2.55398"><name>Medrano</name></rtept>
+  <rtept lat="42.11382" lon="-2.67332"><name>Villoslada de Cameros</name></rtept>
+  <rtept lat="42.28654" lon="-2.42487"><name>Soto en Cameros</name></rtept>
+  <rtept lat="42.25740" lon="-2.44386"><name>Terroba</name></rtept>
+  <rtept lat="42.21802" lon="-2.48867"><name>Jalón de Cameros</name></rtept>
+ </rte>
+</gpx>

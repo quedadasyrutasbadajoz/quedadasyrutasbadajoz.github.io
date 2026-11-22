@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Tierra de Barros: de Torremejía a Solana de los Barros</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/tierra-de-barros-oeste/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.78969" lon="-6.37630"><name>Torremejía</name></wpt>
+ <wpt lat="38.68468" lon="-6.40678"><name>Almendralejo</name></wpt>
+ <wpt lat="38.64798" lon="-6.48700"><name>Aceuchal</name></wpt>
+ <wpt lat="38.61346" lon="-6.50915"><name>Villalba de los Barros</name></wpt>
+ <wpt lat="38.61380" lon="-6.62758"><name>Santa Marta</name></wpt>
+ <wpt lat="38.71723" lon="-6.82308"><name>La Albuera</name></wpt>
+ <wpt lat="38.72538" lon="-6.67101"><name>Corte de Peleas</name></wpt>
+ <wpt lat="38.71946" lon="-6.71353"><name>Entrín Bajo</name></wpt>
+ <wpt lat="38.72554" lon="-6.53824"><name>Solana de los Barros</name></wpt>
+ <rte><name>Tierra de Barros: de Torremejía a Solana de los Barros</name>
+  <rtept lat="38.78969" lon="-6.37630"><name>Torremejía</name></rtept>
+  <rtept lat="38.68468" lon="-6.40678"><name>Almendralejo</name></rtept>
+  <rtept lat="38.64798" lon="-6.48700"><name>Aceuchal</name></rtept>
+  <rtept lat="38.61346" lon="-6.50915"><name>Villalba de los Barros</name></rtept>
+  <rtept lat="38.61380" lon="-6.62758"><name>Santa Marta</name></rtept>
+  <rtept lat="38.71723" lon="-6.82308"><name>La Albuera</name></rtept>
+  <rtept lat="38.72538" lon="-6.67101"><name>Corte de Peleas</name></rtept>
+  <rtept lat="38.71946" lon="-6.71353"><name>Entrín Bajo</name></rtept>
+  <rtept lat="38.72554" lon="-6.53824"><name>Solana de los Barros</name></rtept>
+ </rte>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Sierras de Cazorla, Segura y Las Villas</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/cazorla-segura-villas/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="37.91289" lon="-3.00389"><name>Cazorla</name></wpt>
+ <wpt lat="37.92035" lon="-2.99414"><name>La Iruela</name></wpt>
+ <wpt lat="37.94091" lon="-2.93908"><name>Puerto de las Palomas</name></wpt>
+ <wpt lat="38.01403" lon="-2.87285"><name>Torre del Vinagre</name></wpt>
+ <wpt lat="38.17456" lon="-2.79620"><name>Presa del Tranco</name></wpt>
+ <wpt lat="38.00186" lon="-3.03142"><name>Chilluévar</name></wpt>
+ <rte><name>Sierras de Cazorla, Segura y Las Villas</name>
+  <rtept lat="37.91289" lon="-3.00389"><name>Cazorla</name></rtept>
+  <rtept lat="37.92035" lon="-2.99414"><name>La Iruela</name></rtept>
+  <rtept lat="37.94091" lon="-2.93908"><name>Puerto de las Palomas</name></rtept>
+  <rtept lat="38.01403" lon="-2.87285"><name>Torre del Vinagre</name></rtept>
+  <rtept lat="38.17456" lon="-2.79620"><name>Presa del Tranco</name></rtept>
+  <rtept lat="38.00186" lon="-3.03142"><name>Chilluévar</name></rtept>
+ </rte>
+</gpx>

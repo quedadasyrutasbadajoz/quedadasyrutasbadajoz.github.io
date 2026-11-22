@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Pirineo aragonés: Aínsa, Cotefablo y Puerto del Portalet</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/pirineo-aragones-portalet/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="42.41719" lon="0.13864"><name>Aínsa</name></wpt>
+ <wpt lat="42.49547" lon="-0.11978"><name>Fiscal</name></wpt>
+ <wpt lat="42.60330" lon="-0.12184"><name>Broto</name></wpt>
+ <wpt lat="42.62859" lon="-0.32159"><name>Biescas</name></wpt>
+ <wpt lat="42.80529" lon="-0.41839"><name>Portalet</name></wpt>
+ <rte><name>Pirineo aragonés: Aínsa, Cotefablo y Puerto del Portalet</name>
+  <rtept lat="42.41719" lon="0.13864"><name>Aínsa</name></rtept>
+  <rtept lat="42.49547" lon="-0.11978"><name>Fiscal</name></rtept>
+  <rtept lat="42.60330" lon="-0.12184"><name>Broto</name></rtept>
+  <rtept lat="42.62859" lon="-0.32159"><name>Biescas</name></rtept>
+  <rtept lat="42.80529" lon="-0.41839"><name>Portalet</name></rtept>
+ </rte>
+</gpx>

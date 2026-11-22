@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Vegas Altas: Medellín, Don Benito, Villanueva de la Serena y Magacela</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/vegas-altas-medellin-magacela/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.96403" lon="-5.95799"><name>Medellín</name></wpt>
+ <wpt lat="38.95403" lon="-5.86195"><name>Don Benito</name></wpt>
+ <wpt lat="38.97368" lon="-5.80037"><name>Villanueva de la Serena</name></wpt>
+ <wpt lat="38.89588" lon="-5.73445"><name>Magacela</name></wpt>
+ <rte><name>Vegas Altas: Medellín, Don Benito, Villanueva de la Serena y Magacela</name>
+  <rtept lat="38.96403" lon="-5.95799"><name>Medellín</name></rtept>
+  <rtept lat="38.95403" lon="-5.86195"><name>Don Benito</name></rtept>
+  <rtept lat="38.97368" lon="-5.80037"><name>Villanueva de la Serena</name></rtept>
+  <rtept lat="38.89588" lon="-5.73445"><name>Magacela</name></rtept>
+ </rte>
+</gpx>

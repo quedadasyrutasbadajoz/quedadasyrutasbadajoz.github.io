@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Sierra de San Pedro por la EX-303</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/sierra-san-pedro-ex303/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="39.42246" lon="-6.69190"><name>Aliseda</name></wpt>
+ <wpt lat="39.21902" lon="-6.99993"><name>Alburquerque</name></wpt>
+ <rte><name>Sierra de San Pedro por la EX-303</name>
+  <rtept lat="39.42246" lon="-6.69190"><name>Aliseda</name></rtept>
+  <rtept lat="39.21902" lon="-6.99993"><name>Alburquerque</name></rtept>
+ </rte>
+</gpx>

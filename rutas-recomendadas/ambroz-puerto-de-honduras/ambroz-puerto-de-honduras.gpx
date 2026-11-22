@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Valle del Ambroz y puerto de Honduras (CC-102)</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/ambroz-puerto-de-honduras/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="40.27386" lon="-5.85874"><name>Hervás</name></wpt>
+ <wpt lat="40.22186" lon="-5.87180"><name>Puerto de Honduras</name></wpt>
+ <rte><name>Valle del Ambroz y puerto de Honduras (CC-102)</name>
+  <rtept lat="40.27386" lon="-5.85874"><name>Hervás</name></rtept>
+  <rtept lat="40.22186" lon="-5.87180"><name>Puerto de Honduras</name></rtept>
+ </rte>
+</gpx>

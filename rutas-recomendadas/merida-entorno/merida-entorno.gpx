@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Alrededores de Mérida: Proserpina, Cornalvo y Alange</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/merida-entorno/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.97003" lon="-6.36762"><name>Embalse de Proserpina</name></wpt>
+ <wpt lat="39.05878" lon="-6.31194"><name>Embalse de Cornalvo</name></wpt>
+ <wpt lat="38.95431" lon="-6.35048"><name>Mérida</name></wpt>
+ <wpt lat="38.78514" lon="-6.24727"><name>Alange</name></wpt>
+ <rte><name>Alrededores de Mérida: Proserpina, Cornalvo y Alange</name>
+  <rtept lat="38.97003" lon="-6.36762"><name>Embalse de Proserpina</name></rtept>
+  <rtept lat="39.05878" lon="-6.31194"><name>Embalse de Cornalvo</name></rtept>
+  <rtept lat="38.95431" lon="-6.35048"><name>Mérida</name></rtept>
+  <rtept lat="38.78514" lon="-6.24727"><name>Alange</name></rtept>
+ </rte>
+</gpx>

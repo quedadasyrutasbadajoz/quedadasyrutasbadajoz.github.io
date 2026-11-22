@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Ruta de la Plata: de Cáceres a Béjar</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/via-plata-caceres-bejar/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="39.47452" lon="-6.37168"><name>Cáceres</name></wpt>
+ <wpt lat="40.02992" lon="-6.09017"><name>Plasencia</name></wpt>
+ <wpt lat="40.27386" lon="-5.85874"><name>Hervás</name></wpt>
+ <wpt lat="40.31784" lon="-5.85730"><name>Baños de Montemayor</name></wpt>
+ <wpt lat="40.38658" lon="-5.76496"><name>Béjar</name></wpt>
+ <rte><name>Ruta de la Plata: de Cáceres a Béjar</name>
+  <rtept lat="39.47452" lon="-6.37168"><name>Cáceres</name></rtept>
+  <rtept lat="40.02992" lon="-6.09017"><name>Plasencia</name></rtept>
+  <rtept lat="40.27386" lon="-5.85874"><name>Hervás</name></rtept>
+  <rtept lat="40.31784" lon="-5.85730"><name>Baños de Montemayor</name></rtept>
+  <rtept lat="40.38658" lon="-5.76496"><name>Béjar</name></rtept>
+ </rte>
+</gpx>

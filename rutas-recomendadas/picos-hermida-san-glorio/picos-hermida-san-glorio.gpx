@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Picos de Europa: Desfiladero de la Hermida y Puerto de San Glorio</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/picos-hermida-san-glorio/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="43.37492" lon="-4.51436"><name>Unquera</name></wpt>
+ <wpt lat="43.32342" lon="-4.58399"><name>Panes</name></wpt>
+ <wpt lat="43.25491" lon="-4.61484"><name>La Hermida (desfiladero)</name></wpt>
+ <wpt lat="43.15368" lon="-4.62343"><name>Potes</name></wpt>
+ <wpt lat="43.06684" lon="-4.76653"><name>Puerto de San Glorio</name></wpt>
+ <rte><name>Picos de Europa: Desfiladero de la Hermida y Puerto de San Glorio</name>
+  <rtept lat="43.37492" lon="-4.51436"><name>Unquera</name></rtept>
+  <rtept lat="43.32342" lon="-4.58399"><name>Panes</name></rtept>
+  <rtept lat="43.25491" lon="-4.61484"><name>La Hermida (desfiladero)</name></rtept>
+  <rtept lat="43.15368" lon="-4.62343"><name>Potes</name></rtept>
+  <rtept lat="43.06684" lon="-4.76653"><name>Puerto de San Glorio</name></rtept>
+ </rte>
+</gpx>

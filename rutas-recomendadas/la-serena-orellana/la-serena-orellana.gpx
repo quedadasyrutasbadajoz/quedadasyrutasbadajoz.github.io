@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>La Serena: Orellana, Talarrubias y castillo de Puebla de Alcocer</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/la-serena-orellana/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="39.00547" lon="-5.53372"><name>Orellana la Vieja</name></wpt>
+ <wpt lat="39.03702" lon="-5.23357"><name>Talarrubias</name></wpt>
+ <wpt lat="38.98559" lon="-5.25545"><name>Puebla de Alcocer</name></wpt>
+ <rte><name>La Serena: Orellana, Talarrubias y castillo de Puebla de Alcocer</name>
+  <rtept lat="39.00547" lon="-5.53372"><name>Orellana la Vieja</name></rtept>
+  <rtept lat="39.03702" lon="-5.23357"><name>Talarrubias</name></rtept>
+  <rtept lat="38.98559" lon="-5.25545"><name>Puebla de Alcocer</name></rtept>
+ </rte>
+</gpx>

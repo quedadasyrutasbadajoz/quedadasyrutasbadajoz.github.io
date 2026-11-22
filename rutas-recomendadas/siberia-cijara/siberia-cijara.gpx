@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>La Siberia: embalse de Cíjara, Villarta y Siruela</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/siberia-cijara/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="39.30575" lon="-4.86203"><name>Embalse de Cíjara</name></wpt>
+ <wpt lat="39.21370" lon="-4.79241"><name>Villarta de los Montes</name></wpt>
+ <wpt lat="38.97789" lon="-5.05028"><name>Siruela</name></wpt>
+ <rte><name>La Siberia: embalse de Cíjara, Villarta y Siruela</name>
+  <rtept lat="39.30575" lon="-4.86203"><name>Embalse de Cíjara</name></rtept>
+  <rtept lat="39.21370" lon="-4.79241"><name>Villarta de los Montes</name></rtept>
+  <rtept lat="38.97789" lon="-5.05028"><name>Siruela</name></rtept>
+ </rte>
+</gpx>

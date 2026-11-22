@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>EX-107 hasta Mourão y Monsaraz</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/ex107-mourao-monsaraz/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.87819" lon="-6.97011"><name>Badajoz</name></wpt>
+ <wpt lat="38.68548" lon="-7.09957"><name>Olivenza</name></wpt>
+ <wpt lat="38.51672" lon="-7.07098"><name>Alconchel</name></wpt>
+ <wpt lat="38.37539" lon="-7.16564"><name>Villanueva del Fresno</name></wpt>
+ <wpt lat="38.29755" lon="-7.22233"><name>Mourão</name></wpt>
+ <wpt lat="38.44399" lon="-7.38038"><name>Monsaraz</name></wpt>
+ <rte><name>EX-107 hasta Mourão y Monsaraz</name>
+  <rtept lat="38.87819" lon="-6.97011"><name>Badajoz</name></rtept>
+  <rtept lat="38.68548" lon="-7.09957"><name>Olivenza</name></rtept>
+  <rtept lat="38.51672" lon="-7.07098"><name>Alconchel</name></rtept>
+  <rtept lat="38.37539" lon="-7.16564"><name>Villanueva del Fresno</name></rtept>
+  <rtept lat="38.29755" lon="-7.22233"><name>Mourão</name></rtept>
+  <rtept lat="38.44399" lon="-7.38038"><name>Monsaraz</name></rtept>
+ </rte>
+</gpx>

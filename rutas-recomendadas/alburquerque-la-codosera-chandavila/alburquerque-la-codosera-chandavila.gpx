@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Alburquerque, La Codosera y el santuario de Chandavila</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/alburquerque-la-codosera-chandavila/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.71723" lon="-6.82308"><name>La Albuera</name></wpt>
+ <wpt lat="39.21902" lon="-6.99993"><name>Alburquerque</name></wpt>
+ <wpt lat="39.22938" lon="-7.19336"><name>La Codosera</name></wpt>
+ <wpt lat="39.19467" lon="-7.18283"><name>Santuario de Chandavila</name></wpt>
+ <rte><name>Alburquerque, La Codosera y el santuario de Chandavila</name>
+  <rtept lat="38.71723" lon="-6.82308"><name>La Albuera</name></rtept>
+  <rtept lat="39.21902" lon="-6.99993"><name>Alburquerque</name></rtept>
+  <rtept lat="39.22938" lon="-7.19336"><name>La Codosera</name></rtept>
+  <rtept lat="39.19467" lon="-7.18283"><name>Santuario de Chandavila</name></rtept>
+ </rte>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Sierra de Grazalema y Puerto de las Palomas</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/grazalema-puerto-palomas/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="36.75729" lon="-5.50672"><name>El Bosque</name></wpt>
+ <wpt lat="36.79752" lon="-5.38259"><name>Puerto de las Palomas</name></wpt>
+ <wpt lat="36.84058" lon="-5.39054"><name>Zahara de la Sierra</name></wpt>
+ <wpt lat="36.93490" lon="-5.26012"><name>Olvera</name></wpt>
+ <wpt lat="36.86218" lon="-5.17870"><name>Setenil de las Bodegas</name></wpt>
+ <wpt lat="36.75839" lon="-5.36607"><name>Grazalema</name></wpt>
+ <wpt lat="36.69658" lon="-5.38601"><name>Villaluenga del Rosario</name></wpt>
+ <wpt lat="36.67693" lon="-5.44578"><name>Ubrique</name></wpt>
+ <rte><name>Sierra de Grazalema y Puerto de las Palomas</name>
+  <rtept lat="36.75729" lon="-5.50672"><name>El Bosque</name></rtept>
+  <rtept lat="36.79752" lon="-5.38259"><name>Puerto de las Palomas</name></rtept>
+  <rtept lat="36.84058" lon="-5.39054"><name>Zahara de la Sierra</name></rtept>
+  <rtept lat="36.93490" lon="-5.26012"><name>Olvera</name></rtept>
+  <rtept lat="36.86218" lon="-5.17870"><name>Setenil de las Bodegas</name></rtept>
+  <rtept lat="36.75839" lon="-5.36607"><name>Grazalema</name></rtept>
+  <rtept lat="36.69658" lon="-5.38601"><name>Villaluenga del Rosario</name></rtept>
+  <rtept lat="36.67693" lon="-5.44578"><name>Ubrique</name></rtept>
+ </rte>
+</gpx>

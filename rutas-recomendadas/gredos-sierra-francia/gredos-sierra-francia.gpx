@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Puerto del Pico, Sierra de Béjar y Sierra de Francia</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/gredos-sierra-francia/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="40.32210" lon="-5.01404"><name>Puerto del Pico</name></wpt>
+ <wpt lat="40.36191" lon="-5.13309"><name>Navarredonda de Gredos</name></wpt>
+ <wpt lat="40.35774" lon="-5.52312"><name>El Barco de Ávila</name></wpt>
+ <wpt lat="40.36842" lon="-5.74483"><name>Candelario</name></wpt>
+ <wpt lat="40.38658" lon="-5.76496"><name>Béjar</name></wpt>
+ <wpt lat="40.49222" lon="-6.05325"><name>Mogarraz</name></wpt>
+ <wpt lat="40.48894" lon="-6.11049"><name>La Alberca</name></wpt>
+ <wpt lat="40.51235" lon="-6.16902"><name>Peña de Francia</name></wpt>
+ <rte><name>Puerto del Pico, Sierra de Béjar y Sierra de Francia</name>
+  <rtept lat="40.32210" lon="-5.01404"><name>Puerto del Pico</name></rtept>
+  <rtept lat="40.36191" lon="-5.13309"><name>Navarredonda de Gredos</name></rtept>
+  <rtept lat="40.35774" lon="-5.52312"><name>El Barco de Ávila</name></rtept>
+  <rtept lat="40.36842" lon="-5.74483"><name>Candelario</name></rtept>
+  <rtept lat="40.38658" lon="-5.76496"><name>Béjar</name></rtept>
+  <rtept lat="40.49222" lon="-6.05325"><name>Mogarraz</name></rtept>
+  <rtept lat="40.48894" lon="-6.11049"><name>La Alberca</name></rtept>
+  <rtept lat="40.51235" lon="-6.16902"><name>Peña de Francia</name></rtept>
+ </rte>
+</gpx>

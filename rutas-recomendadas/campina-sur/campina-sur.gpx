@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Campiña Sur: Fuente de Cantos, Llerena y Azuaga</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/campina-sur/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.24614" lon="-6.30743"><name>Fuente de Cantos</name></wpt>
+ <wpt lat="38.23727" lon="-6.01583"><name>Llerena</name></wpt>
+ <wpt lat="38.25921" lon="-5.67686"><name>Azuaga</name></wpt>
+ <rte><name>Campiña Sur: Fuente de Cantos, Llerena y Azuaga</name>
+  <rtept lat="38.24614" lon="-6.30743"><name>Fuente de Cantos</name></rtept>
+  <rtept lat="38.23727" lon="-6.01583"><name>Llerena</name></rtept>
+  <rtept lat="38.25921" lon="-5.67686"><name>Azuaga</name></rtept>
+ </rte>
+</gpx>

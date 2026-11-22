@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Puerto de San Vicente, Guadalupe y Castañar de Ibor</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/puerto-san-vicente-guadalupe-ibor/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="39.52243" lon="-5.11394"><name>Puerto de San Vicente</name></wpt>
+ <wpt lat="39.45203" lon="-5.32738"><name>Guadalupe</name></wpt>
+ <wpt lat="39.62619" lon="-5.41702"><name>Castañar de Ibor</name></wpt>
+ <wpt lat="39.82138" lon="-5.40171"><name>Embalse de Valdecañas</name></wpt>
+ <rte><name>Puerto de San Vicente, Guadalupe y Castañar de Ibor</name>
+  <rtept lat="39.52243" lon="-5.11394"><name>Puerto de San Vicente</name></rtept>
+  <rtept lat="39.45203" lon="-5.32738"><name>Guadalupe</name></rtept>
+  <rtept lat="39.62619" lon="-5.41702"><name>Castañar de Ibor</name></rtept>
+  <rtept lat="39.82138" lon="-5.40171"><name>Embalse de Valdecañas</name></rtept>
+ </rte>
+</gpx>

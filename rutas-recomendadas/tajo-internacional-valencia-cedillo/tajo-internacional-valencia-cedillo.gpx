@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Tajo Internacional: de Valencia de Alcántara a Cedillo</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/tajo-internacional-valencia-cedillo/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="39.41316" lon="-7.24209"><name>Valencia de Alcántara</name></wpt>
+ <wpt lat="39.60601" lon="-7.24452"><name>Santiago de Alcántara</name></wpt>
+ <wpt lat="39.63881" lon="-7.40619"><name>Herrera de Alcántara</name></wpt>
+ <wpt lat="39.65177" lon="-7.50016"><name>Cedillo</name></wpt>
+ <rte><name>Tajo Internacional: de Valencia de Alcántara a Cedillo</name>
+  <rtept lat="39.41316" lon="-7.24209"><name>Valencia de Alcántara</name></rtept>
+  <rtept lat="39.60601" lon="-7.24452"><name>Santiago de Alcántara</name></rtept>
+  <rtept lat="39.63881" lon="-7.40619"><name>Herrera de Alcántara</name></rtept>
+  <rtept lat="39.65177" lon="-7.50016"><name>Cedillo</name></rtept>
+ </rte>
+</gpx>

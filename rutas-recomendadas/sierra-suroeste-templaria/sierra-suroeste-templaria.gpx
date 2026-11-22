@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Sierra Suroeste: Jerez de los Caballeros, Higuera la Real y Fregenal</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/sierra-suroeste-templaria/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.37887" lon="-6.80513"><name>Valle de Matamoros</name></wpt>
+ <wpt lat="38.32020" lon="-6.77134"><name>Jerez de los Caballeros</name></wpt>
+ <wpt lat="38.14266" lon="-6.68957"><name>Higuera la Real</name></wpt>
+ <wpt lat="38.16640" lon="-6.65257"><name>Fregenal de la Sierra</name></wpt>
+ <rte><name>Sierra Suroeste: Jerez de los Caballeros, Higuera la Real y Fregenal</name>
+  <rtept lat="38.37887" lon="-6.80513"><name>Valle de Matamoros</name></rtept>
+  <rtept lat="38.32020" lon="-6.77134"><name>Jerez de los Caballeros</name></rtept>
+  <rtept lat="38.14266" lon="-6.68957"><name>Higuera la Real</name></rtept>
+  <rtept lat="38.16640" lon="-6.65257"><name>Fregenal de la Sierra</name></rtept>
+ </rte>
+</gpx>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Quedadas y Rutas Badajoz" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Zafra y los castillos de Burguillos y Feria</name><desc>Puntos de paso; el navegador calcula la carretera entre ellos. Orientativo: revisa el recorrido antes de salir.</desc><copyright author="Colaboradores de OpenStreetMap"><license>https://www.openstreetmap.org/copyright</license></copyright><link href="https://www.quedadasyrutasbadajoz.es/rutas-recomendadas/zafra-castillos/"><text>Ficha de la ruta</text></link></metadata>
+ <wpt lat="38.42535" lon="-6.41936"><name>Zafra</name></wpt>
+ <wpt lat="38.37987" lon="-6.59075"><name>Burguillos del Cerro</name></wpt>
+ <wpt lat="38.51242" lon="-6.56422"><name>Feria</name></wpt>
+ <wpt lat="38.52690" lon="-6.44836"><name>Fuente del Maestre</name></wpt>
+ <rte><name>Zafra y los castillos de Burguillos y Feria</name>
+  <rtept lat="38.42535" lon="-6.41936"><name>Zafra</name></rtept>
+  <rtept lat="38.37987" lon="-6.59075"><name>Burguillos del Cerro</name></rtept>
+  <rtept lat="38.51242" lon="-6.56422"><name>Feria</name></rtept>
+  <rtept lat="38.52690" lon="-6.44836"><name>Fuente del Maestre</name></rtept>
+ </rte>
+</gpx>
