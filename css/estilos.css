@@ -151,7 +151,7 @@ body.anuncios-activos .anuncio{display:block;min-height:100px;margin:32px auto;m
 
 /* Pie */
 .pie{background:#08090a;border-top:1px solid var(--borde);padding:48px 0 28px;margin-top:40px;font-size:.92rem;color:var(--suave)}
-.pie .columnas{display:grid;grid-template-columns:2fr 1fr 1fr;gap:30px}
+.pie .columnas{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:30px}
 .pie h2{font-size:1rem;color:var(--texto)}
 .pie ul{list-style:none;padding:0;margin:0}
 .pie li{margin:6px 0}
